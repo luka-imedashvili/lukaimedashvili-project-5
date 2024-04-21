@@ -1,3 +1,167 @@
-h2 {
-	color: red;
+header {
+	padding-top: 54px;
+}
+.container {
+	margin: 0 auto;
+	width: 1300px;
+}
+.htmllogo {
+	margin-right: 60px;
+	vertical-align: middle;
+}
+nav {
+	width: 700px;
+	display: inline-block;
+	vertical-align: middle;
+
+}
+li {
+	display: inline-block;
+}
+a {
+	color: #8D81FF;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 87px;
+}
+.active {
+	color: #4E6FAE;
+	font-family: FiraGO;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.date {
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-top: 44px;
+}
+.month {
+	color: #8D81FF;
+	font-family: BPG square;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 18px;
+}
+.month2 {
+	color: #8D81FF;
+	font-family: BPG nostalgia;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin-top: 18px;
+}
+.month3 {
+	color: #8D81FF;
+	font-family: alk rounded nusx med;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin-top: 18px;
+}
+.head {
+	color: #4E6FAE;
+	font-family: BPG square;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 8px;
+	margin-bottom: 13px;
+}
+.head2 {
+	color: #4E6FAE;
+	font-family: bpg nostalgia;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-top: 8px;
+	margin-bottom: 13px;
+}
+.head3 {
+	color: #4E6FAE;
+	font-family: alk rounded nusx med;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin-top: 8px;
+	margin-bottom: 13px;
+}
+.code {
+	margin-right: 66px;
+}
+.pdiv, .pdiv2 {
+	display: inline-block;
+	width: 778px;
+	height: 280px;
+	vertical-align:top;
+}
+.p1 {
+	color: #4E6FAE;
+	font-family: BPG square;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 19px;
+	line-height: 1.2;
+}
+.p2 {
+	color: #4E6FAE;
+	font-family: bpg nostalgia;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+	margin-bottom: 19px;
+	line-height: 1.2;
+}
+.p3 {
+	color: #4E6FAE;
+	font-family: alk rounded nusx med;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	margin-bottom: 19px;
+	line-height: 1.2;
+}
+.tags {
+	margin-right: 66px;
+}
+.pdiv3 {
+	display: block;
+	margin-top: 32px;
+}
+.footer1 {
+	padding-bottom: 285px;
+	margin-top: 145px;
+.line {
+	width: 2px;
+	height: 48px;
+	background-color: #5012D5;
+	display: inline-block;
+	margin-right: 40px;
+}
+.facebook {
+	margin-right: 40px;
 }
