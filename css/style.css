@@ -290,5 +290,78 @@ a {
 	margin-top: 91px ;
 	margin-bottom: 194px;
 }
+/*end of page 2*/
 
-
+.s-3 {
+	background-color: #E7E7E7;
+	height: 775px;
+	margin-top: 43px;
+}
+.container3 {
+	width: 1330px;
+	margin: 0 auto;
+}
+.contactsdiv {
+	width: 475px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 93px;
+	margin-right: 172px;
+}
+.information {
+	width: 474px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: "FiraGO";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 27px;
+}
+.info {
+	color: #7E8898;
+	font-family: "FiraGO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 23px;
+}
+.info2 {
+	color: #7E8898;
+	font-family: "FiraGO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 11px;
+}
+.info3 {
+	color: #7E8898;
+	font-family: "FiraGO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 11px;
+}
+span {
+	color: #3F4145;
+	font-family: "FiraGO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+iframe {
+	display: inline-block;
+	width: 670px;
+	height: 549px;
+	vertical-align: top;
+	margin-top: 93px;
+}
+.footerdiv {
+	margin-top: 106px;
+	margin-bottom: 179px;
+}
